@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/blinkee/static/css/main.6a9af62c.chunk.css"
   },
   {
-    "revision": "a15231fd1a56d259fa40f176ef2524ca",
+    "revision": "d595b0b5b5717f6e63d225f9c9f09cdb",
     "url": "/blinkee/index.html"
   }
 ];
