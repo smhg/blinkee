@@ -1,0 +1,13 @@
+{
+  "main.css": "/blinkee/static/css/main.724b68dc.chunk.css",
+  "main.js": "/blinkee/static/js/main.7c870d92.chunk.js",
+  "main.js.map": "/blinkee/static/js/main.7c870d92.chunk.js.map",
+  "static/js/1.7dcf526b.chunk.js": "/blinkee/static/js/1.7dcf526b.chunk.js",
+  "static/js/1.7dcf526b.chunk.js.map": "/blinkee/static/js/1.7dcf526b.chunk.js.map",
+  "runtime~main.js": "/blinkee/static/js/runtime~main.c289a1af.js",
+  "runtime~main.js.map": "/blinkee/static/js/runtime~main.c289a1af.js.map",
+  "static/css/main.724b68dc.chunk.css.map": "/blinkee/static/css/main.724b68dc.chunk.css.map",
+  "index.html": "/blinkee/index.html",
+  "precache-manifest.44f49bd9256c990d7edd8b77978a969d.js": "/blinkee/precache-manifest.44f49bd9256c990d7edd8b77978a969d.js",
+  "service-worker.js": "/blinkee/service-worker.js"
+}
