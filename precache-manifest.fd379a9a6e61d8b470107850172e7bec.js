@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/blinkee/static/js/runtime~main.c289a1af.js"
   },
   {
-    "revision": "94b43f0de10978b5d6c7",
-    "url": "/blinkee/static/js/main.94b43f0d.chunk.js"
+    "revision": "72ce1752ea33146fcc01",
+    "url": "/blinkee/static/js/main.72ce1752.chunk.js"
   },
   {
     "revision": "4ccabc2e3af5a637f49d",
     "url": "/blinkee/static/js/1.4ccabc2e.chunk.js"
   },
   {
-    "revision": "94b43f0de10978b5d6c7",
+    "revision": "72ce1752ea33146fcc01",
     "url": "/blinkee/static/css/main.8d4d9314.chunk.css"
   },
   {
-    "revision": "ed75a9465f21bfc91abf1f4b1fea14cf",
+    "revision": "fd25fd283e570a2f53903429fa6348ac",
     "url": "/blinkee/index.html"
   }
 ];
