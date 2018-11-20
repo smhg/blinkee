@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import distance from 'gps-distance';
 import Settings from './Settings';
+import {version} from '../package.json';
 
 const sortDistance = (left, right) => {
   if (left.distance < right.distance) {
@@ -58,9 +59,12 @@ class App extends Component {
           onChange={this.handleSettingsChange}
         />
         <footer>
-          {scooters &&
-            <div>{scooters.length} blinkees available</div>
-          }
+          <div>
+            {scooters &&
+              `${scooters.length} blinkees available - `
+            }
+            version {version}
+          </div>
         </footer>
       </div>
     );
