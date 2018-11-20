@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/blinkee/precache-manifest.d9a2b832aa1c3e707ecb8ad944a67d25.js"
+  "/blinkee/precache-manifest.807541b2199d6393478f8d27d228f594.js"
 );
 
 workbox.clientsClaim();

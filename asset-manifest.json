@@ -1,13 +1,13 @@
 {
-  "main.css": "/blinkee/static/css/main.6a9af62c.chunk.css",
-  "main.js": "/blinkee/static/js/main.64312e63.chunk.js",
-  "main.js.map": "/blinkee/static/js/main.64312e63.chunk.js.map",
-  "static/js/1.4ccabc2e.chunk.js": "/blinkee/static/js/1.4ccabc2e.chunk.js",
-  "static/js/1.4ccabc2e.chunk.js.map": "/blinkee/static/js/1.4ccabc2e.chunk.js.map",
+  "main.css": "/blinkee/static/css/main.4f88a0cb.chunk.css",
+  "main.js": "/blinkee/static/js/main.b0e4d26d.chunk.js",
+  "main.js.map": "/blinkee/static/js/main.b0e4d26d.chunk.js.map",
+  "static/js/1.b5b4a848.chunk.js": "/blinkee/static/js/1.b5b4a848.chunk.js",
+  "static/js/1.b5b4a848.chunk.js.map": "/blinkee/static/js/1.b5b4a848.chunk.js.map",
   "runtime~main.js": "/blinkee/static/js/runtime~main.c289a1af.js",
   "runtime~main.js.map": "/blinkee/static/js/runtime~main.c289a1af.js.map",
-  "static/css/main.6a9af62c.chunk.css.map": "/blinkee/static/css/main.6a9af62c.chunk.css.map",
+  "static/css/main.4f88a0cb.chunk.css.map": "/blinkee/static/css/main.4f88a0cb.chunk.css.map",
   "index.html": "/blinkee/index.html",
-  "precache-manifest.d9a2b832aa1c3e707ecb8ad944a67d25.js": "/blinkee/precache-manifest.d9a2b832aa1c3e707ecb8ad944a67d25.js",
+  "precache-manifest.807541b2199d6393478f8d27d228f594.js": "/blinkee/precache-manifest.807541b2199d6393478f8d27d228f594.js",
   "service-worker.js": "/blinkee/service-worker.js"
 }
