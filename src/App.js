@@ -109,7 +109,7 @@ class App extends Component {
   startPolling() {
     const {pollInterval} = this.state.settings;
 
-    if (pollInterval) {
+    if (pollInterval && pollInterval >= 15) {
       this.fetchBlinkee()
         .then(() => this.handleDataChange());
       this.poller = setInterval(() => {
@@ -159,7 +159,7 @@ class App extends Component {
       }
     } = this.state;
 
-    if (maxDistance && latitude && longitude) {
+    if (maxDistance && maxDistance >= 100 && latitude && longitude) {
       const withDistance = scooters.map(scooter =>
           Object.assign({}, scooter, {distance: distance(
             latitude,
@@ -187,13 +187,12 @@ class App extends Component {
     if (Notification.permission === 'granted') {
       const dist = Math.ceil(this.closest.distance);
 
-      this.notification = new Notification('blinkee close by!', {
-        icon: 'favicon.png',
-        body: `Blinkee parked at ${dist + ''} meters.`
+      navigator.serviceWorker.ready.then(registration => {
+        registration.showNotification('blinkee close by!', {
+          icon: 'favicon.png',
+          body: `Blinkee parked at ${dist + ''} meters.`
+        });
       });
-      this.notification.onclick = event => {
-        event.preventDefault();
-      }
     }
   }
 }
