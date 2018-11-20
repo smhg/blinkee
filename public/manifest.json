@@ -1,6 +1,6 @@
 {
-  "short_name": "Closest Blinkee",
-  "name": "Closest Blinkee",
+  "short_name": "blinkee notifier",
+  "name": "blinkee notifier",
   "icons": [
     {
       "src": "favicon.png",

@@ -1,0 +1,14 @@
+.toggle {
+	cursor: pointer;
+	font-size: 3rem;
+}
+
+.toggle .icon {
+	font-size: 3rem;
+}
+
+footer {
+	padding-top: 5px;
+	font-size: 0.70rem;
+	font-weight: 500;
+}
